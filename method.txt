@@ -1,3 +1,4 @@
 method 1
+print hello
 
-mehtod 2
+mehod 3
